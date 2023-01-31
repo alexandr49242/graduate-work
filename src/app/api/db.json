@@ -1,0 +1,99 @@
+{
+  "bicycles": [
+    { 
+    "id": "67rdca3eeb7f6fgeed471815", 
+    "name": "Chisel", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.700", 
+    "color": "black", 
+    "size":"XS", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471816", 
+    "name": "Demo", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.000", 
+    "color": "red", 
+    "size":"S", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471817", 
+    "name": "Enduro", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "9.700", 
+    "color": "yellow", 
+    "size":"S", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471818", 
+    "name": "Epic", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "10.500", 
+    "color": "orange", 
+    "size":"M", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471819", 
+    "name": "Epic Evo", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.000", 
+    "color": "yellow", 
+    "size":"XS", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471820", 
+    "name": "Epic Hardtail", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "9.200", 
+    "color": "green", 
+    "size":"XL", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471821", 
+    "name": "Rockhopper", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.200", 
+    "color": "blue", 
+    "size":"XS", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471822", 
+    "name": "Stumpjumper", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.999", 
+    "color": "purple", 
+    "size":"XL", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471823", 
+    "name": "Stumpjumper EVO", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "11.700", 
+    "color": "black", 
+    "size":"M", 
+    "bookmark": false 
+    },
+    { 
+    "id": "67rdca3eeb7f6fgeed471824", 
+    "name": "Turbo Levo", 
+    "img": "https://b.radikal.host/2023/01/29/TurboLevoComp.png", 
+    "price": "8.700", 
+    "color": "red", 
+    "size":"XS", 
+    "bookmark": false 
+    }
+    
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
