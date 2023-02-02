@@ -7,7 +7,7 @@ const BicyclesList = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      fetch("http://localhost:3001/bicycles")
+      fetch("https://8kz8aq52e1.api.quickmocker.com/bicycles")
         .then((res) => res.json())
         .then(
           (result) => {

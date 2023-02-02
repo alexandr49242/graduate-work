@@ -22,6 +22,15 @@ header {
   /* background-image: url(./img/bgNavBar.png); */
 }
 
+.bg-career {
+  background-image: url("img/bgCareer.png");
+  background-size: 88%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* height: 336px; */
+  /* padding: 200px; */
+}
+
 /* .arrowright {
   border: solid white;
   border-width: 0 9px 9px 0;

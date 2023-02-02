@@ -1,6 +1,7 @@
 import React from "react";
 import mainwelcome from "../../../img/mainwelcome.png";
 import arrow from "../../../img/arrow.svg";
+import { Link } from "react-router-dom";
 
 const Welcome = () => {
   return (
@@ -28,12 +29,12 @@ const Welcome = () => {
           ранее не могли себе даже представить
         </h1>
         <div className="flex justify-center items-center bg-[#B52B25] h-12 hover:bg-[#CC302A]">
-          <a
-            href="#"
+          <Link
+            to="/bicycles"
             className="text-xl font-base leading-[18px] tracking-tight text-white p-3"
           >
             В каталог
-          </a>
+          </Link>
           <a href="#" className="w-[48px] h-[48px] ">
             <img src={arrow} alt="arrow" className=" w-[23px] h-[23px] m-3" />
           </a>

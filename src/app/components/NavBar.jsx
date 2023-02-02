@@ -49,8 +49,11 @@ const NavBar = () => {
               </Link>
             </li>
             <li>
-              <Link to="#" className="text-white text-xs hover:font-semibold">
-                SPECIALIZED КЛУБ
+              <Link
+                to="/career"
+                className="text-white text-xs hover:font-semibold"
+              >
+                SPECIALIZED КАРЬЕРА
               </Link>
             </li>
             <li>
